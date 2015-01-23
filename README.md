@@ -12,6 +12,9 @@ Solution contains script run_analysis.R and code book code_book.md which describ
 ### Using example
 To run this script you should install plyr package first.
 Usage is very simple and example you can see below:
+
 source("run_analysis.R")
+
 runAnalysis()
+
 In working directory you should be able to find tidy data set file named tidy_dataset.txt.
