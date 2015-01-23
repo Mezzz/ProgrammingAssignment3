@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 ### Content
 
-Solution contains script run_analysis.R and code book code_book.md which describes tidy data set values.
+Solution contains script run_analysis.R and code book CcodeBook.md which describes tidy data set values.
 
 ### Using example
 To run this script you should install plyr package first.
